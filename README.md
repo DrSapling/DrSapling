@@ -27,19 +27,19 @@
     <img src="./icons/html5.svg" title="html5" alt="html5" width="40" height="40"/>
     <img src="./icons/python.svg" title="python" alt="python" width="40" height="40"/>
     <br>
-    <img src="./icons/vscodium.svg" href="https://vscodium.com/" title="vscodium" alt="vscodium" width="40" height="40"/>
+    <a href="https://vscodium.com/"><img src="./icons/vscodium.svg" title="vscodium" alt="vscodium" width="40" height="40"/></a>
     <br>
     <br>
-    <img src="./icons/fusion360.svg" href="https://www.autodesk.com/products/fusion-360/" title="fusion360" alt="fusion360" width="40" height="40"/>
-    <img src="./icons/photopea.svg" href="https://photopea.com/" title="photopea" alt="photopea" width="40" height="40"/>
-    <img src="./icons/photoshop.svg" href="https://www.adobe.com/" title="photoshop" alt="photoshop" width="40" height="40"/>
-    <img src="./icons/illustrator.svg" href="https://www.adobe.com/" title="illustrator" alt="illustrator" width="40" height="40"/>
-    <img src="./icons/premiere-pro.svg" href="https://www.adobe.com/" title="premiere-pro alt="premiere-pro" width="40" height="40"/>
-    <img src="./icons/DaVinci-resolve.svg" href="https://www.blackmagicdesign.com/products/davinciresolve" title="DaVinci-Resolve alt="DaVinci-resolve" width="40" height="40"/>
-    <img src="./icons/cinema4d-ugly.svg" href="https://www.maxon.net/en/cinema-4d" title="cinema4d" alt="cinema4d" width="40" height="40"/>
+    <a href="https://www.autodesk.com/products/fusion-360/"><img src="./icons/fusion360.svg" title="fusion360" alt="fusion360" width="40" height="40"/></a>
+    <a href="https://photopea.com/"><img src="./icons/photopea.svg" title="photopea" alt="photopea" width="40" height="40"/></a>
+    <a href="https://www.adobe.com/"><img src="./icons/photoshop.svg" title="photoshop" alt="photoshop" width="40" height="40"/></a>
+    <a href="https://www.adobe.com/"><img src="./icons/illustrator.svg" title="illustrator" alt="illustrator" width="40" height="40"/></a>
+    <a href="https://www.adobe.com/"><img src="./icons/premiere-pro.svg" title="premiere-pro alt="premiere-pro" width="40" height="40"/></a>
+    <a href="https://www.blackmagicdesign.com/products/davinciresolve"><img src="./icons/DaVinci-resolve.svg" title="DaVinci-Resolve alt="DaVinci-resolve" width="40" height="40"/></a>
+    <a href="https://www.maxon.net/en/cinema-4d"><img src="./icons/cinema4d-ugly.svg" title="cinema4d" alt="cinema4d" width="40" height="40"/></a>
     <br>
-    <img src="./icons/obsidian.svg" href="https://obsidian.md/" title="obsidian" alt="obsidian" width="40"/>
-    <img src="./icons/notion.svg" href="https://www.notion.so/" title="notion" alt="notion" width="40"/>
+    <a href="https://obsidian.md/"><img src="./icons/obsidian.svg" title="obsidian" alt="obsidian" width="40"/></a>
+    <a href="https://www.notion.so/"><img src="./icons/notion.svg" title="notion" alt="notion" width="40"/></a>
     <br>
     <br>
     <img src="./icons/linux.svg" title="linux" alt="Linux" width="40" height="40"/>
