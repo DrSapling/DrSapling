@@ -59,7 +59,7 @@
         <tr>
             <td>
                 <ul>
-                    <li>🛠️ <a href="https://github.com/DrSapling/DrSapling/tools">Tools</a> I use every day</li>
+                    <li>🛠️ <a href="https://github.com/DrSapling/DrSapling/blob/main/tools.md">Tools</a> I use every day</li>
                     <li>📝 <a href="https://github.com/DrSapling/blog">Blog</a> updating my work (now only in form of MD files. Full website in future)</li>
                 </ul>
             </td>
