@@ -7,9 +7,9 @@
         <tr>
             <td>
                 <ul>
-                    <li>🎓 I am studying <b>Automatic Control and Robotics</b> at <b>Poznań University of Technology</b></li>
-                    <li>🪛 I am currently working on <a href="https://github.com/DrSapling/qr-storage">QR Storage</a></li>
-                    <li>💪 In free time I ride my bike, meet with friends and </li>
+                    <li>🎓 I am studying <b>Information Technology</b> at <b>WSB Merito in Poznań</b></li>
+                    <li>🪛 I am currently working on Wrench cosplay and lately [reverse-engineered LED glasses circuit board](https://github.com/DrSapling/SL-GlassesLed26x7---LED-Glasses-matrix)</li>
+                    <li>💪 In free time I ride my bike, meet with friends and play games.</li>
                 </ul>
             </td>
         </tr>
@@ -60,7 +60,8 @@
             <td>
                 <ul>
                     <li>🛠️ <a href="https://github.com/DrSapling/DrSapling/blob/main/tools.md">Tools</a> I use every day</li>
-                    <li>📝 <a href="https://github.com/DrSapling/blog">Blog</a> updating my work (now only in form of MD files. Full website in future)</li>
+                    <!--li>📝 <a href="https://github.com/DrSapling/blog">Blog</a> updating my work (now only in form of MD files. Full website in future)</li-->
+                    <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_red.png" href="https://ko-fi.com/DrSapling" width=20%>
                 </ul>
             </td>
         </tr>
