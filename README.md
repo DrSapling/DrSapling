@@ -55,13 +55,13 @@
 <h3 align="center">More about me</h3>
 
 <div align="center">
-    <table>
+    <table align="center">
         <tr>
             <td>
                 <ul>
                     <li>🛠️ <a href="https://github.com/DrSapling/DrSapling/blob/main/tools.md">Tools</a> I use every day</li>
                     <!--li>📝 <a href="https://github.com/DrSapling/blog">Blog</a> updating my work (now only in form of MD files. Full website in future)</li-->
-                    <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_red.png" href="https://ko-fi.com/DrSapling" width=20%>
+                    <li><a href="https://ko-fi.com/DrSapling"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_red.png" width=20%></a></li>
                 </ul>
             </td>
         </tr>
