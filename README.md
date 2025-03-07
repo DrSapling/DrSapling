@@ -8,7 +8,7 @@
             <td>
                 <ul>
                     <li>🎓 I am studying <b>Information Technology</b> at <b>WSB Merito in Poznań</b></li>
-                    <li>🪛 I am currently working on Wrench cosplay and lately <a href="https://github.com/DrSapling/SL-GlassesLed26x7---LED-Glasses-matrix">reverse-engineered LED glasses circuit board</a></li>
+                    <li>🪛 I am currently working on Wrench cosplay and lately <a href="https://github.com/DrSapling/LED-Glasses-Matrix-26x7-SL-GlassesLed26x7">reverse-engineered LED glasses circuit board</a></li>
                     <li>💪 In free time I ride my bike, meet with friends and play games.</li>
                 </ul>
             </td>
