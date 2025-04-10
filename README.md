@@ -8,8 +8,8 @@
             <td>
                 <ul>
                     <li>🎓 I am studying <b>Information Technology</b> at <b>WSB Merito in Poznań</b></li>
-                    <li>🪛 I am currently working on Wrench cosplay and lately <a href="https://github.com/DrSapling/LED-Glasses-Matrix-26x7-SL-GlassesLed26x7">reverse-engineered LED glasses circuit board</a></li>
-                    <li>💪 In free time I ride my bike, meet with friends and play games.</li>
+                    <li>🪛 I am currently working on Wrench cosplay<br>and lately <a href="https://github.com/DrSapling/LED-Glasses-Matrix-26x7-SL-GlassesLed26x7">reverse-engineered LED glasses circuit board</a></li>
+                    <li>💪 In free time I explore and learn new things.</li>
                 </ul>
             </td>
         </tr>
@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center">Languages and software I have experience with:</h3>
+<h2 align="center">Programing languages and software I have experience with:</h3>
 <p align="center">
     <img src="./icons/arduino.svg" title="Arduino" alt="logo: Arduino" width="40" height="40"/>
     <img src="./icons/cplusplus.svg" title="Cplusplus" alt="logo: Cplusplus" width="40" height="40"/>
@@ -26,9 +26,17 @@
     <img src="./icons/css3.svg" title="CSS3" alt="logo: CSS3" width="40" height="40"/>
     <img src="./icons/html5.svg" title="HTML5" alt="logo: HTML5" width="40" height="40"/>
     <img src="./icons/python.svg" title="Python" alt="logo: Python" width="40" height="40"/>
-    <img src="./icons/minecraft-command-block.webp" title="Minecraft commands" alt="logo: Minecraft command block" width="40" height="40"/>
+    <!--img src="./icons/minecraft-command-block.webp" title="Minecraft commands" alt="logo: Minecraft command block" width="40" height="40"/-->
     <br>
-    <a href="https://vscodium.com/"><img src="./icons/vscodium.svg" title="VScodium" alt="logo: VScodium" width="40" height="40"/></a>
+    <a href="https://code.visualstudio.com/"><img src="./icons/vscode.svg" title="VScode" alt="logo: VScode" width="40" height="40"/></a>
+    <a href="https://code.visualstudio.com/"><img src="./icons/docker-mark-blue.svg" title="Docker" alt="logo: Docker" width="40" height="40"/></a>
+    <br>
+    <a href="https://pl.wikipedia.org/wiki/Linux"><img src="./icons/linux.svg" title="Linux" alt="logo: Linux" width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"><img src="./icons/windows-11.svg" title="Windows" alt="logo: Windows" width="40" height="40"/></a>
+    <br>
+    <br>
+    <a href="https://obsidian.md/"><img src="./icons/obsidian.svg" title="Obsidian" alt="logo: Obsidian" width="40"/></a>
+    <a href="https://www.notion.so/"><img src="./icons/notion.svg" title="Notion" alt="logo: Notion" width="40"/></a>
     <br>
     <br>
     <a href="https://www.autodesk.com/products/fusion-360/"><img src="./icons/fusion360.svg" title="Fusion360" alt="logo: Fusion360" width="40" height="40"/></a>
@@ -40,15 +48,9 @@
     <a href="https://www.maxon.net/en/cinema-4d"><img src="./icons/cinema4d-ugly.svg" title="Cinema4d" alt="logo: Cinema4d" width="40" height="40"/></a>
     <a href="https://www.agisoft.com/"><img src="./icons/metashape.svg" title="Metashape" alt="logo: Metashape" width="40" height="40"/></a>
     <br>
-    <a href="https://obsidian.md/"><img src="./icons/obsidian.svg" title="Obsidian" alt="logo: Obsidian" width="40"/></a>
-    <a href="https://www.notion.so/"><img src="./icons/notion.svg" title="Notion" alt="logo: Notion" width="40"/></a>
-    <br>
-    <br>
-    <img src="./icons/linux.svg" title="Linux" alt="logo: Linux" width="40" height="40"/>
-    <img src="./icons/windows-11.svg" title="Windows" alt="logo: Windows" width="40" height="40"/>
 </p>
 
-###### - Click on software to get more info
+###### - Click on icon to get more info
 
 ---
 

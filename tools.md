@@ -7,6 +7,7 @@ Every tool that I use, I try to find the binary (zip - non installable) version 
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - Allows to drag, resize and snap windows without grabing the title bar.
 - [Google Quick Share](https://www.android.com/better-together/quick-share-app/) - Like Air-Drop but for Android-Windows.
 - [PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-us&gl=US) - A lot of useful tools, I use the most Always on top, Text extractor and PowerToys Run.
+- [Tabby](https://tabby.sh/) - Remote shell app (moved from Termius)
 
 ---
 
