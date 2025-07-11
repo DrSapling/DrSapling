@@ -37,6 +37,7 @@
     <br>
     <a href="https://obsidian.md/"><img src="./icons/obsidian.svg" title="Obsidian" alt="logo: Obsidian" width="40"/></a>
     <a href="https://www.notion.so/"><img src="./icons/notion.svg" title="Notion" alt="logo: Notion" width="40"/></a>
+    <a href="https://trello.com/"><img src="./icons/trello.svg" title="Trello" alt="logo: Trello" width="40"/></a>
     <br>
     <br>
     <a href="https://www.autodesk.com/products/fusion-360/"><img src="./icons/fusion360.svg" title="Fusion360" alt="logo: Fusion360" width="40" height="40"/></a>
