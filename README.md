@@ -57,7 +57,7 @@
 
 <h3 align="center">More about me</h3>
 
-<div align="center">
+<!--div align="center">
     <table align="center">
         <tr>
             <td>
@@ -69,4 +69,4 @@
             </td>
         </tr>
     </table>
-</div>
+</div-->
